@@ -19,4 +19,13 @@ Alternatively, you can serve the files using a local HTTP server. For example, w
 
 ## Live Demo
 
-You can also view the live demo at: [https://mehereta.github.io/Skeletal-System-2/](https://mehereta.github.io/Skeletal-System-2/)
+To host this project on GitHub Pages, follow these steps:
+
+1. Go to your repository on GitHub.
+2. Click on "Settings".
+3. Scroll down to the "GitHub Pages" section.
+4. Under "Source", select the branch you want to deploy (e.g., `main`).
+5. Click "Save".
+
+Once GitHub Pages is set up, your live demo will be available at:  
+`https://mehereta.github.io/Skeletal-System-2/`
